@@ -56,7 +56,7 @@ Portfolio Reviewers
 📸 Screenshots / Demo
 
 Dashboard Preview
-![Interactive Resume Dashboard](Snapshots/Interactive_Resume_Dashboard.png)
+![Interactive Resume Dashboard]([Snapshots/Interactive_Resume_Dashboard.png](https://github.com/harshadashimpi1-ui/Interactive-Resume-Dashboard/blob/main/Home%20Page.png))
 
 Live Dashboard
 🔗 **Power BI Service:** https://app.powerbi.com/view?r=YOUR_LINK
