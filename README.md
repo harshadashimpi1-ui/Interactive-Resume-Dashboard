@@ -52,3 +52,11 @@ Hiring Managers
 Technical Interviewers
 HR Professionals
 Portfolio Reviewers
+
+📸 Screenshots / Demo
+
+Dashboard Preview
+![Interactive Resume Dashboard](Snapshots/Interactive_Resume_Dashboard.png)
+
+Live Dashboard
+🔗 **Power BI Service:** https://app.powerbi.com/view?r=YOUR_LINK
